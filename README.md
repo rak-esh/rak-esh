@@ -1,4 +1,4 @@
-# Hi, I'm Rakesh Kumar 👋
+# Hi, I'm Rakesh 👋
 
 ### AI/ML Engineer | Generative AI | Python
 
