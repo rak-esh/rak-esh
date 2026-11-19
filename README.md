@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rakesh Kumar 👋
 
-<!--
-**rak-esh/rak-esh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | Generative AI | Python
 
-Here are some ideas to get you started:
+I'm an AI/ML Engineer with around 4 years of experience working on AI and Machine Learning solutions. Currently exploring Generative AI, LLMs, RAG and Agentic AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- **Languages:** Python, SQL
+- **Machine Learning:** Machine Learning, Deep Learning, NLP
+- **Generative AI:** LLMs, RAG, Prompt Engineering, Embeddings, AI Agents
+- **Frameworks:** LangChain, LangGraph, FastAPI
+- **Cloud:** Microsoft Azure, Azure OpenAI
+- **Tools:** Git, Docker
+
+### 📚 Currently Exploring
+
+- Generative AI and LLM applications
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Model Context Protocol (MCP)
+
